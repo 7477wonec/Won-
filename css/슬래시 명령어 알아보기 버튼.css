@@ -1,0 +1,39 @@
+body {
+       height: 100vh;
+       justify-content: center;
+       align-items: center;
+       display: inline-block;
+}
+
+#slashcommands_learn {   
+       max-width: 290px;
+       max-height: 70px;
+       font-weight: 700;
+       border-radius: 30px;
+       position: absolute;
+       top: 45%;
+       left: 40%;
+       transform: translate(-50%, -50%);
+       transition: all 0.3s;
+       display: inline-block;
+}
+
+#slashcommands_learn {
+       font-size: 20px;
+       padding: 10px;
+       background-color: yellow;
+       color: black;
+       border: 3px solid black;
+       border-radius: 30px;
+       letter-spacing: 4px;
+}
+
+#slashcommands_learn:focus{
+       outline: none;
+}
+
+#slashcommands_learn:hover{
+       background-color: blue;
+       cursor: pointer;
+       color: white;
+}

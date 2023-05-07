@@ -1,0 +1,15 @@
+body {
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+    display: inline-block;
+    font-size: 16px;
+  }
+  
+  #textID2 {   
+    color: yellow;
+    font-weight: 700;
+    top: 20%;
+    left: 10%;
+    position: absolute;
+  }

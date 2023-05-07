@@ -1,0 +1,18 @@
+body {
+  height: 100vh;
+  justify-content: center;
+  align-items: center;
+  display: inline-block;
+  font-size: auto;
+  line-height: 1.5;
+  font-size: 16px;
+}
+
+#textID1 {   
+  color: yellow;
+  font-weight: 700;
+  top: 36%;
+  left: 31%;
+  padding-bottom: 56.25%;
+  position: absolute;
+}
