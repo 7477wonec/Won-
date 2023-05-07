@@ -1,0 +1,16 @@
+body {
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+    display: inline-block;
+}
+
+#Won_kachu img {
+    position: absolute;
+    top: 60%;
+    left: 20px;
+    transform: translateY(-50%);
+    max-width: 45px;
+    max-height: 45px;
+    margin-right: 10px;
+}
